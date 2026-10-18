@@ -1,4 +1,4 @@
-# Salut 👋, moi c'est Djibo Adamou Ismaël
+# Salut, moi c'est Djibo Adamou Ismaël
 
 **Développeur Flutter & Dart · Mobile · UI/UX** — Niamey, Niger
 
@@ -56,15 +56,16 @@ Laboratoire d'interfaces Flutter : reproductions pédagogiques de l'UI Facebook 
 
 ## Parcours professionnel
 
+- **Freelance** — Travail de conception, de developpement et de maintient d'application mobiles en tant que prestataire indépendant.
 - **Nexcellus** — développement web/mobile sur des projets liés à l'accessibilité et à l'éducation.
 - **Gestion de projet** — formation qui structure aujourd'hui ma façon de découper, prioriser et livrer.
 - Projets professionnels présentés sur [mon portfolio](https://isdev-portfolio.notion.site/Djibo-Adamou-Ismael-3017cac0909580ecb816ee37ef4a5cdc).
 
 ## Actuellement
 
-- Approfondissement de l'architecture (Clean Architecture, BLoC/Cubit) et des tests automatisés.
-- Intégration de services BaaS avancés (Supabase RLS, Firebase AI / Remote Config).
-- Préparation d'une première publication Play Store (application suivi_budget, version locale).
+- Apprentissage du language de programmation Kotlin et du UI Toolkit Jetpack Compose pour le developpement d'application Android.
+- Developpement d'une plateforme inclusive pour les personnes avec un handicap auditif.
+- Travaux indépendants de conception, de developpement et de maintient sur des apps mobiles.
 
 ## Contact
 
