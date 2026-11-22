@@ -49,11 +49,6 @@ Transactions (revenus / dépenses), catégories, filtrage, calcul de solde en te
 Application météo avec géolocalisation et conditions actuelles.
 **Technologies :** Flutter, BLoC, get_it, API OpenWeatherMap (via `--dart-define`).
 
-### [Clones](https://github.com/Idjibo33/Clones)
-
-Laboratoire d'interfaces Flutter : reproductions pédagogiques de l'UI Facebook et Instagram (Slivers, NestedScrollView, CarouselView…).
-*Exercices indépendants, non affiliés aux plateformes originales.*
-
 ## Parcours professionnel
 
 - **Freelance** — Travail de conception, de developpement et de maintient d'application mobiles en tant que prestataire indépendant.
